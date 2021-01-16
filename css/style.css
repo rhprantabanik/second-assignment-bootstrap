@@ -1,0 +1,84 @@
+body{
+    background-color:#F8F9FA;
+}
+.container{
+    padding-top: 20px;
+}
+.nike{
+    color: tomato;
+    font-size: 65px;
+    font-weight: bold;
+}
+.infinity{
+    color: rgb(52, 38, 66);
+    font-size: 65px;
+    font-weight: bold;
+}
+.btn{
+    border-radius: 11px;
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-body img{
+    width: 100%;
+}
+.card{
+    border: none;
+
+}
+p{
+    font-weight: 500;
+}
+.intro{
+    padding-bottom: 100px;
+}
+.shoe h1{
+    color: rgb(52, 38, 66);
+    font-weight: 700;
+    
+}
+.buy-now h2{
+    float: left;
+}
+.buy-now a{
+    float: right;
+}
+.card-body h3{
+    color:rgb(52, 38, 66);
+}
+.card-body{
+    border-radius: 10px;
+}
+.shoe{
+    margin: 50px 0px;
+}
+.rate{
+    color: #FA804C;
+    font-weight: 700;
+    align-items: center;
+}
+.services{
+    float: left;
+    margin-10px;
+    margin:auto;
+}
+.service-description{
+    margin: 20px 0px;
+}
+
+.service-description tr td{
+    padding: 10px;
+}
+.service-description tr td img{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.services img{
+    width: 100%;
+    margin-right: 10px;
+}
+footer{
+    display: flex;
+}
+
